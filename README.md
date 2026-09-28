@@ -63,9 +63,6 @@ claude plugin install genie@genie-marketplace
 
 ```
 .
-├── .claude-plugin/marketplace.json   # marketplace para Claude Code
-├── genie/
-│   ├── .claude-plugin/plugin.json    # manifest del plugin
 │   └── skills/genie/SKILL.md         # la skill (lo importante)
 ├── assets/icon.png                   # logo
 ├── LICENSE
