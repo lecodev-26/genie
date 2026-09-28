@@ -25,7 +25,7 @@ Tú piensas en cualquier cosa: un personaje, un animal, una peli, un objeto, un 
 
 1. **Descarga el archivo:** [SKILL.md](https://github.com/lecodev-26/genie/releases/latest/download/SKILL.md)
 2. **Pásaselo a tu IA.** Adjúntalo a la conversación o copia y pega su contenido.
-3. **Escribe:** `Juega conmigo a Genie`
+3. **Escribe:** `Activar Skill`
 4. **Piensa en algo** y, cuando estés listo, dile `listo`.
 5. **Responde** con sí, no o no sé.
 
