@@ -50,15 +50,6 @@ Eso es todo.
 
 Está escrito como skill de Claude, pero en el fondo son instrucciones en texto, así que también se puede usar con ChatGPT, Gemini u otras IAs. Cada una lo sigue con más o menos fidelidad; si alguna no lo hace bien, prueba con otra.
 
-## Para usuarios de Claude Code
-
-Si usas Claude Code, también puedes instalarlo como plugin:
-
-```bash
-claude plugin marketplace add lecodev-26/genie
-claude plugin install genie@genie-marketplace
-```
-
 ## Estructura del repositorio
 
 ```
