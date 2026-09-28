@@ -1,0 +1,11 @@
+{
+  "name": "genie",
+  "displayName": "Genie",
+  "version": "1.0.0",
+  "description": "A chat-native guessing game: think of anything and Genie tries to guess it.",
+  "author": { "name": "lecodev-26", "url": "https://github.com/lecodev-26" },
+  "homepage": "https://github.com/lecodev-26/genie",
+  "repository": "https://github.com/lecodev-26/genie",
+  "license": "MIT",
+  "keywords": ["game", "guessing", "entertainment", "20-questions"]
+}
