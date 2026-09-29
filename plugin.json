@@ -1,0 +1,17 @@
+{
+  "name": "genie",
+  "version": "0.1.0",
+  "description": "A chat-native guessing game: think of anything and Genie tries to guess it.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Genie",
+    "shortDescription": "Think of anything. Genie tries to guess it.",
+    "longDescription": "A playful chat-native deduction game. Think of a person, character, animal, object, place, or almost anything recognizable. Genie asks adaptive questions and tries to identify it.",
+    "category": "Entertainment",
+    "capabilities": [
+      "Play a conversational guessing game",
+      "Ask adaptive yes/no questions",
+      "Guess the player's chosen thing"
+    ]
+  }
+}

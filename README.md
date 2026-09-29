@@ -71,3 +71,15 @@ Está escrito como skill de Claude, pero en el fondo son instrucciones en texto,
 ---
 
 <p align="center">Hecho por <a href="https://github.com/lecodev-26">@lecodev-26</a></p>
+
+## MCP server
+
+The repository also contains a minimal remote MCP server for ChatGPT and other MCP clients.
+
+- MCP endpoint: `/mcp`
+- Health endpoint: `/health`
+- The server exposes the canonical Genie skill as the `genie://skill` resource.
+- It also exposes `genie_start` and the `play_genie` prompt.
+- The guessing-game state remains in the conversation; the MCP server does not store player secrets or game state.
+
+The server uses the TypeScript MCP SDK and Streamable HTTP.
