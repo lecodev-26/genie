@@ -37,7 +37,7 @@ function createServer() {
       title: "Start Genie",
       description: "Start a fresh Genie guessing game with its native opening.",
       inputSchema: z.object({}),
-      annotations: { readOnlyHint: true, destructiveHint: false, idempotentHint: true },
+      annotations: { readOnlyHint: true, openWorldHint: false, destructiveHint: false, idempotentHint: true },
     },
     async () => ({
       content: [{
